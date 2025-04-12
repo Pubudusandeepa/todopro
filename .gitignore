@@ -1,0 +1,19 @@
+# Root node_modules (if you have one)
+node_modules/
+
+# React client node_modules
+/todocrud/node_modules/
+
+# Node server node_modules
+/todobackend/node_modules/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+
+# dotenv files (if sensitive)
+.env
+/server/.env
+/client/.env
